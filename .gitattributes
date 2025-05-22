@@ -1,2 +1,76 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="portfolio.css" />
+    <title>About Us</title>
+    <style>
+      h3 {
+        color: black;
+        background-color: aqua;
+        font-weight: bold;
+        font-style: italic;
+        text-decoration: wavy;
+      }
+      h4 {
+        color: cadetblue;
+        font-style: oblique;
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <h3 class="smallheading">
+      <i class="fas fa-globe"></i> Designing websites/apps for companies.
+    </h3>
+
+    <p class="description">
+      If you're looking for a freelance designer to help bring an idea to life
+      and you're on a tight timeline--let's jam.
+    </p>
+
+    <h4><i class="fas fa-laptop-code"></i> <u>WWW.UKS171.com</u></h4>
+    <p>
+      <i class="fas fa-desktop"></i> Available for Freelance/Social Promotion
+      Speaking Engagements.
+    </p>
+    <p><i class="fas fa-mobile-alt"></i> Perfect for Web Designing and Apps</p>
+
+    <h4>
+      <i class="fas fa-building"></i> WE FOCUS ON STRENGTHENING SMALL WEBSITES.
+    </h4>
+
+    <h4><i class="fas fa-palette"></i> STYLE DESIGN</h4>
+
+    <h4><i class="fas fa-pencil-alt"></i> DESIGN CREATIVE</h4>
+    <p>
+      <i class="fas fa-quote-left"></i> The best way to predict the future is to
+      invent it <i class="fas fa-brain"></i>. In web development, this means
+      constantly pushing the boundaries of what's possible, experimenting with
+      new technologies, and innovating to create better user experiences
+      <i class="fas fa-pen-nib"></i>. It's a field that requires creativity,
+      curiosity, and a passion for problem-solving, but the rewards are well
+      worth the effort <b>:</b> the opportunity to shape the web, to build
+      something from scratch, and to bring ideas to life
+      <i class="fas fa-lightbulb"></i>.
+      <i class="fas fa-quote-right"></i>
+    </p>
+    <br />
+
+    <iframe src="./Skills.jpeg" height="750" width="750" controls></iframe>
+
+    <hr />
+    <h3 class="footer"><i class="fas fa-rocket"></i> THANK YOU</h3>
+    <hr />
+    <div class="aboutus">
+      <img src="./AboutUs icon.png" width="50" height="50" alt="" />
+    </div>
+  </body>
+</html>
